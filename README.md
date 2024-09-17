@@ -21,11 +21,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kobeatom_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kobeatom_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/seankobedime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seankobedime" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kobedime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kobedime" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sean-kobe-dime-b6a829230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seankobedime" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/26456583/kobe-dime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kobedime" height="30" width="40" /></a>
 <a href="https://fb.com/ohitskobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ohitskobe" height="30" width="40" /></a>
 <a href="https://instagram.com/ohitskobe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ohitskobe_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ohitskobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ohitskobe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/ohitskobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ohitskobe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
