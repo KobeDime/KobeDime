@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sean Kobe R. Dime</h1>
 
-<h3 align="center">A passionate Full Stack Developer from Philippines</h3>
+<h3 align="center">A Passionate Full Stack Developer from Philippines</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
