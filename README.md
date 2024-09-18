@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://seankobedime.netlify.app/](https://seankobedime.netlify.app/)
 
-- 💬 Ask me about **Web Development, PHP, Cryptocurrency**
+- 💬 Ask me about **Web Development, PHP, Cryptocurrency, Investing**
 
 - 📫 How to reach me **kobe24.dime@gmail.com**
 
